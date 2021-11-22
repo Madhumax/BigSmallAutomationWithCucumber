@@ -25,6 +25,7 @@ public class signinStepDefination extends WebDriverHelper
     public void user_chooses_the_browser() throws IOException
     {
     	driver=baseFile();
+    	driver.manage().window().maximize();
 		
     }
 
