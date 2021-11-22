@@ -9,7 +9,7 @@ import io.cucumber.junit.CucumberOptions;
 @RunWith(Cucumber.class)
 @CucumberOptions
 (
-	features=".\\Features\\signin.feature",
+	features=".\\Features",
 	glue= {"com.mindtree.stepDefinations"},
 	plugin = {"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"},
 	publish=true
