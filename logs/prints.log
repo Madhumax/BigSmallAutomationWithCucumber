@@ -1,0 +1,12 @@
+12:53:36.817 [main] DEBUG com.mindtree.stepDefinations.signinStepDefination - browser is closed
+12:53:50.258 [main] DEBUG com.mindtree.stepDefinations.signinStepDefination - navigated to the url
+12:53:55.073 [main] DEBUG com.mindtree.stepDefinations.AddToCartStepDefination - navigated to the key chains page
+12:54:02.023 [main] DEBUG com.mindtree.stepDefinations.AddToCartStepDefination - added to the cart
+12:54:02.248 [main] DEBUG com.mindtree.stepDefinations.AddToCartStepDefination - screenshot taken
+12:54:04.279 [main] DEBUG com.mindtree.stepDefinations.AddToCartStepDefination - clicked on checkout
+12:54:04.372 [main] DEBUG com.mindtree.stepDefinations.AddToCartStepDefination - text is validated
+12:54:04.795 [main] DEBUG com.mindtree.stepDefinations.signinStepDefination - browser is closed
+12:54:20.347 [main] DEBUG com.mindtree.stepDefinations.signinStepDefination - navigated to the url
+12:54:26.690 [main] INFO  com.mindtree.stepDefinations.signinStepDefination - clicked on signin icon
+12:54:33.494 [main] INFO  com.mindtree.stepDefinations.signinStepDefination - email and password were entered in the respective spaces
+12:54:37.656 [main] DEBUG com.mindtree.stepDefinations.signinStepDefination - browser is closed

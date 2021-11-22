@@ -1,0 +1,19 @@
+12:51:56.335 [main] DEBUG com.mindtree.stepDefinations.signinStepDefination - navigated to the url
+12:52:00.204 [main] DEBUG com.mindtree.stepDefinations.PersonalizedGiftsStepDefination - clicked on personalized gifts icon
+12:52:16.539 [main] DEBUG com.mindtree.stepDefinations.PersonalizedGiftsStepDefination - clicked on product
+12:52:17.403 [main] DEBUG com.mindtree.stepDefinations.PersonalizedGiftsStepDefination - Added to the cart
+12:52:17.535 [main] DEBUG com.mindtree.stepDefinations.signinStepDefination - browser is closed
+12:52:29.633 [main] DEBUG com.mindtree.stepDefinations.signinStepDefination - navigated to the url
+12:52:34.255 [main] DEBUG com.mindtree.stepDefinations.RemoveFromCart - clicked on christmas gifts icon
+12:52:40.966 [main] DEBUG com.mindtree.stepDefinations.RemoveFromCart - clicked on product
+12:52:41.598 [main] DEBUG com.mindtree.stepDefinations.RemoveFromCart - clicked on add to cart
+12:52:45.243 [main] DEBUG com.mindtree.stepDefinations.RemoveFromCart - screenshot taken
+12:52:49.393 [main] DEBUG com.mindtree.stepDefinations.signinStepDefination - browser is closed
+12:53:03.853 [main] DEBUG com.mindtree.stepDefinations.signinStepDefination - navigated to the url
+12:53:08.583 [main] DEBUG com.mindtree.stepDefinations.AddToCartStepDefination - navigated to the key chains page
+12:53:08.716 [main] DEBUG com.mindtree.stepDefinations.RemoveFromWishListStepValidation - entered the keyword into the search box
+12:53:24.745 [main] DEBUG com.mindtree.stepDefinations.RemoveFromWishListStepValidation - clicked on the product
+12:53:26.052 [main] DEBUG com.mindtree.stepDefinations.RemoveFromWishListStepValidation - clicked on wishlist icon
+12:53:31.341 [main] DEBUG com.mindtree.stepDefinations.RemoveFromWishListStepValidation - clicked on access to wishlist
+12:53:32.268 [main] DEBUG com.mindtree.stepDefinations.RemoveFromWishListStepValidation - product is successfully added to wishlist
+12:53:32.666 [main] DEBUG com.mindtree.stepDefinations.RemoveFromWishListStepValidation - screenshot taken

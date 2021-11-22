@@ -1,0 +1,19 @@
+12:48:51.886 [main] DEBUG com.mindtree.stepDefinations.signinStepDefination - navigated to the url
+12:49:02.649 [main] DEBUG com.mindtree.stepDefinations.AddToCartStepDefination - navigated to the key chains page
+12:49:09.510 [main] INFO  com.mindtree.stepDefinations.AddToWishListStepDefination - clicked on product
+12:49:21.280 [main] INFO  com.mindtree.stepDefinations.AddToWishListStepDefination - validated
+12:49:21.470 [main] DEBUG com.mindtree.stepDefinations.signinStepDefination - browser is closed
+12:49:53.431 [main] DEBUG com.mindtree.stepDefinations.signinStepDefination - navigated to the url
+12:49:59.897 [main] DEBUG com.mindtree.stepDefinations.MarvelPageSortByStepDefination - clicked on corporate gifts icon
+12:50:14.345 [main] DEBUG com.mindtree.stepDefinations.MarvelPageSortByStepDefination - details were entered successfully
+12:50:14.627 [main] DEBUG com.mindtree.stepDefinations.signinStepDefination - browser is closed
+12:50:34.917 [main] DEBUG com.mindtree.stepDefinations.signinStepDefination - navigated to the url
+12:50:35.206 [main] INFO  com.mindtree.stepDefinations.CountingLinksInTheHomePage - Total links in the landing page 451
+12:50:35.437 [main] DEBUG com.mindtree.stepDefinations.signinStepDefination - browser is closed
+12:50:47.814 [main] DEBUG com.mindtree.stepDefinations.signinStepDefination - navigated to the url
+12:50:52.596 [main] INFO  com.mindtree.stepDefinations.DropdownStepDefination - clicked on the product
+12:50:58.861 [main] INFO  com.mindtree.stepDefinations.DropdownStepDefination - the product is sold out
+12:51:03.021 [main] DEBUG com.mindtree.stepDefinations.signinStepDefination - browser is closed
+12:51:27.027 [main] DEBUG com.mindtree.stepDefinations.signinStepDefination - navigated to the url
+12:51:32.018 [main] INFO  com.mindtree.stepDefinations.MarvelPageSortByStepDefination - clicked on marvel logo and  navigated to marvel page
+12:51:42.347 [main] DEBUG com.mindtree.stepDefinations.signinStepDefination - browser is closed
