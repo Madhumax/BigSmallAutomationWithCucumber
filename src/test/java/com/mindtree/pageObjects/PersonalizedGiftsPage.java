@@ -3,8 +3,6 @@ package com.mindtree.pageObjects;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
-import com.mindtree.uiStore.CorporateGiftsPageUI;
-import com.mindtree.uiStore.LandingPageUI;
 import com.mindtree.uiStore.PersonalizedGiftsPageUI;
 
 public class PersonalizedGiftsPage 

@@ -4,7 +4,6 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
 import com.mindtree.uiStore.CorporateGiftsPageUI;
-import com.mindtree.uiStore.LandingPageUI;
 
 public class CorporateGiftsPage 
 {

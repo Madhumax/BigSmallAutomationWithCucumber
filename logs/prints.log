@@ -1,0 +1,3 @@
+11:53:03.207 [main] INFO  com.mindtree.stepDefinations.signinStepDefination - clicked on signin icon
+11:53:08.880 [main] INFO  com.mindtree.stepDefinations.signinStepDefination - email and password were entered in the respective spaces
+11:53:13.012 [main] DEBUG com.mindtree.stepDefinations.signinStepDefination - browser is closed

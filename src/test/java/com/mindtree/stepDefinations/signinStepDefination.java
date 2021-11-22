@@ -2,6 +2,8 @@ package com.mindtree.stepDefinations;
 
 import java.io.IOException;
 
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.junit.runner.RunWith;
 
 import com.mindtree.pageObjects.LandingPage;
@@ -15,8 +17,10 @@ import io.cucumber.java.en.When;
 import io.cucumber.junit.Cucumber;
 
 @RunWith(Cucumber.class)
-public class signinStepDefination extends WebDriverHelper {
-
+public class signinStepDefination extends WebDriverHelper 
+{
+	private static Logger log=LogManager.getLogger(signinStepDefination.class.getName());
+	
     @Given("^user chooses the browser$")
     public void user_chooses_the_browser() throws IOException
     {
@@ -29,6 +33,7 @@ public class signinStepDefination extends WebDriverHelper {
     {
     	LandingPage lp=new LandingPage(driver);
 		lp.getSignin().click();
+		log.info("clicked on signin icon");
 		
     }
 
@@ -39,6 +44,7 @@ public class signinStepDefination extends WebDriverHelper {
 		sp.getEmail().sendKeys(strArg1);
 		sp.getPassword().sendKeys(strArg2);
 		sp.getSubmit().click();
+		log.info("email and password were entered in the respective spaces");
 
     }
 
@@ -46,11 +52,13 @@ public class signinStepDefination extends WebDriverHelper {
     public void navigated_to_the_url()
     {
     	driver.get(prop.getProperty("url"));
+    	log.debug("navigated to the url");
     }
     @And("^close the browser$")
     public void close_the_browser() 
     {
         driver.close();
+        log.debug("browser is closed");
     }
 
 }

@@ -1,0 +1,20 @@
+11:49:12.796 [main] DEBUG com.mindtree.stepDefinations.signinStepDefination - browser is closed
+11:49:23.419 [main] DEBUG com.mindtree.stepDefinations.signinStepDefination - navigated to the url
+11:49:23.540 [main] INFO  com.mindtree.stepDefinations.CountingLinksInTheHomePage - Total links in the landing page 451
+11:49:24.036 [main] DEBUG com.mindtree.stepDefinations.signinStepDefination - browser is closed
+11:49:33.055 [main] DEBUG com.mindtree.stepDefinations.signinStepDefination - navigated to the url
+11:49:37.836 [main] INFO  com.mindtree.stepDefinations.DropdownStepDefination - clicked on the product
+11:49:43.433 [main] INFO  com.mindtree.stepDefinations.DropdownStepDefination - the product is sold out
+11:49:48.375 [main] DEBUG com.mindtree.stepDefinations.signinStepDefination - browser is closed
+11:49:59.774 [main] DEBUG com.mindtree.stepDefinations.signinStepDefination - navigated to the url
+11:50:06.124 [main] INFO  com.mindtree.stepDefinations.MarvelPageSortByStepDefination - clicked on marvel logo and  navigated to marvel page
+11:50:16.796 [main] DEBUG com.mindtree.stepDefinations.signinStepDefination - browser is closed
+11:50:29.537 [main] DEBUG com.mindtree.stepDefinations.signinStepDefination - navigated to the url
+11:50:33.938 [main] DEBUG com.mindtree.stepDefinations.PersonalizedGiftsStepDefination - clicked on personalized gifts icon
+11:50:45.743 [main] DEBUG com.mindtree.stepDefinations.PersonalizedGiftsStepDefination - clicked on product
+11:50:47.430 [main] DEBUG com.mindtree.stepDefinations.PersonalizedGiftsStepDefination - Added to the cart
+11:50:47.580 [main] DEBUG com.mindtree.stepDefinations.signinStepDefination - browser is closed
+11:50:59.858 [main] DEBUG com.mindtree.stepDefinations.signinStepDefination - navigated to the url
+11:51:03.459 [main] DEBUG com.mindtree.stepDefinations.RemoveFromCart - clicked on christmas gifts icon
+11:51:08.445 [main] DEBUG com.mindtree.stepDefinations.RemoveFromCart - clicked on product
+11:51:08.769 [main] DEBUG com.mindtree.stepDefinations.RemoveFromCart - clicked on add to cart

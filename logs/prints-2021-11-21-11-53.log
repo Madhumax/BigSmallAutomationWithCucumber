@@ -1,0 +1,19 @@
+11:51:12.364 [main] DEBUG com.mindtree.stepDefinations.RemoveFromCart - screenshot taken
+11:51:16.686 [main] DEBUG com.mindtree.stepDefinations.signinStepDefination - browser is closed
+11:51:33.167 [main] DEBUG com.mindtree.stepDefinations.signinStepDefination - navigated to the url
+11:51:41.646 [main] DEBUG com.mindtree.stepDefinations.AddToCartStepDefination - navigated to the key chains page
+11:51:41.795 [main] DEBUG com.mindtree.stepDefinations.RemoveFromWishListStepValidation - entered the keyword into the search box
+11:51:59.941 [main] DEBUG com.mindtree.stepDefinations.RemoveFromWishListStepValidation - clicked on the product
+11:52:00.989 [main] DEBUG com.mindtree.stepDefinations.RemoveFromWishListStepValidation - clicked on wishlist icon
+11:52:07.289 [main] DEBUG com.mindtree.stepDefinations.RemoveFromWishListStepValidation - clicked on access to wishlist
+11:52:07.764 [main] DEBUG com.mindtree.stepDefinations.RemoveFromWishListStepValidation - product is successfully added to wishlist
+11:52:08.140 [main] DEBUG com.mindtree.stepDefinations.RemoveFromWishListStepValidation - screenshot taken
+11:52:08.868 [main] DEBUG com.mindtree.stepDefinations.signinStepDefination - browser is closed
+11:52:28.566 [main] DEBUG com.mindtree.stepDefinations.signinStepDefination - navigated to the url
+11:52:35.620 [main] DEBUG com.mindtree.stepDefinations.AddToCartStepDefination - navigated to the key chains page
+11:52:41.819 [main] DEBUG com.mindtree.stepDefinations.AddToCartStepDefination - added to the cart
+11:52:42.055 [main] DEBUG com.mindtree.stepDefinations.AddToCartStepDefination - screenshot taken
+11:52:44.176 [main] DEBUG com.mindtree.stepDefinations.AddToCartStepDefination - clicked on checkout
+11:52:44.224 [main] DEBUG com.mindtree.stepDefinations.AddToCartStepDefination - text is validated
+11:52:44.802 [main] DEBUG com.mindtree.stepDefinations.signinStepDefination - browser is closed
+11:52:58.772 [main] DEBUG com.mindtree.stepDefinations.signinStepDefination - navigated to the url

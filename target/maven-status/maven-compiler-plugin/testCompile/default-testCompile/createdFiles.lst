@@ -12,6 +12,7 @@ com\mindtree\uiStore\MinionsPageUI.class
 com\mindtree\uiStore\ChristmasGiftsPageUI.class
 com\mindtree\stepDefinations\RemoveFromWishListStepValidation.class
 com\mindtree\uiStore\ProductPageUI.class
+com\mindtree\utilities\ConfigFileReader.class
 com\mindtree\uiStore\LandingPageUI.class
 com\mindtree\stepDefinations\RemoveFromCart.class
 com\mindtree\utilities\ExtentReport.class
