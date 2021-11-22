@@ -1,6 +1,6 @@
 Feature: Application Validation
 
-Scenario Outline: signin Validation
+Scenario: signin Validation
 Given user chooses the browser
 And navigated to the url
 When clicked on signin

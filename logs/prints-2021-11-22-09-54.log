@@ -1,0 +1,18 @@
+09:53:05.415 [AsyncHttpClient-1-2] DEBUG io.netty.buffer.AbstractByteBuf - -Dio.netty.buffer.checkAccessible: true
+09:53:05.419 [AsyncHttpClient-1-2] DEBUG io.netty.buffer.AbstractByteBuf - -Dio.netty.buffer.checkBounds: true
+09:53:05.419 [AsyncHttpClient-1-2] DEBUG io.netty.util.ResourceLeakDetectorFactory - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@4156fe5f
+09:53:05.455 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.maxCapacityPerThread: 4096
+09:53:05.455 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.maxSharedCapacityFactor: 2
+09:53:05.455 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.linkCapacity: 16
+09:53:05.455 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.ratio: 8
+09:53:05.462 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.delayedQueue.ratio: 8
+09:53:07.340 [AsyncHttpClient-1-2] DEBUG io.netty.handler.codec.compression.Brotli - brotli4j not in the classpath; Brotli support will be unavailable.
+09:53:07.727 [main] DEBUG io.netty.util.internal.ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0xb33f73efbc2f2834
+09:53:19.550 [main] DEBUG com.mindtree.stepDefinations.signinStepDefination - navigated to the url
+09:53:26.888 [main] DEBUG com.mindtree.stepDefinations.AddToCartStepDefination - navigated to the key chains page
+09:53:34.817 [main] INFO  com.mindtree.stepDefinations.AddToWishListStepDefination - clicked on product
+09:53:46.744 [main] INFO  com.mindtree.stepDefinations.AddToWishListStepDefination - validated
+09:53:50.953 [main] DEBUG com.mindtree.stepDefinations.signinStepDefination - browser is closed
+09:54:02.544 [main] DEBUG com.mindtree.stepDefinations.signinStepDefination - navigated to the url
+09:54:09.790 [main] DEBUG com.mindtree.stepDefinations.MarvelPageSortByStepDefination - clicked on corporate gifts icon
+09:54:16.082 [main] DEBUG com.mindtree.stepDefinations.MarvelPageSortByStepDefination - details were entered successfully
